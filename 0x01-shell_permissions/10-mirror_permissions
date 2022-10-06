@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod --reference=source target
+chmod --reference=olleh hello
